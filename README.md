@@ -40,7 +40,7 @@ Bu depo aşağıdaki dosyaları içermektedir:
 
 ## Analiz Adımları
 
-1.  **Veri Toplama:** Google Earth Engine üzerinden uydu verileri indirilmiştir. Veriler, "OPERNICUS/S5P/OFFL/L3_NO2" imajlarından elde edilmiştir.
+1.  **Veri Toplama:** Google Earth Engine üzerinden uydu verileri indirilmiştir. Veriler, "COPERNICUS/S5P/OFFL/L3_NO2" imajlarından elde edilmiştir.
 2.  **Veri İşleme:**
     *   Günlük NO2 değerleri, her iki bölge için ayrı ayrı CSV dosyalarına kaydedilmiştir.
     *   Python ve pandas kütüphanesi kullanılarak veriler düzenlenmiş ve temizlenmiştir.
